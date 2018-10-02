@@ -26,6 +26,7 @@ Steps to install---
 		# rosrun mara joint_trajectory_server.py l 1
 
  2: launch moveit:
+ 
 		# roslaunch mara_moveit_config demo_mara.launch
 
  3: run the controller
