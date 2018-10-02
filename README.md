@@ -5,7 +5,8 @@ Steps to install---
 
 1. catkin_make
 2. add setup.bash location to your ~/.bashrc
-	Go to the end of that file and add
+
+	Go to the end of that file(sudo vim ~/.bashrc) and add
 	
 		# source <path to your directory>/devel/setup.bash
 3. Instal dependencies. To find out the dependencies, run:
